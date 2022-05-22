@@ -1,7 +1,8 @@
 # Substance Designer Enfusion Texture Map Graphs
 I've created a number of Substance Designer graphs for those who wish to convert/merge their PBR Texture maps into their Enfusion Engine Compatible Counterparts.
 
-I made these mainly for those who do not have Substance Painter or Designer and do not wish to manually convert/merge their maps using photo edition tools such as Photoshop. You can download and install [Substance Player](https://substance3d.adobe.com/documentation/sp31/substance-player-2294742.html) free of charge to open and use the .SBSAR files provided in the repository. 
+I made these mainly for those who do not have Substance Painter or Designer and do not wish to manually convert/merge their maps using photo edition tools such as Photoshop. 
+You can download and install [Substance Player](https://substance3d.adobe.com/documentation/sp31/substance-player-2294742.html) free of charge to open and use the .SBSAR files provided in the repository. 
 
 ## Examples
 ###### OpenGL Tangent Space (Y+) to DirectX Tanget Space (Y-)
