@@ -14,12 +14,12 @@ If you already have DirectX Normal Maps you can ignore this completely. :)
 ![BaseColor & Roughness to BCR](/Examples/BCR.png)
 You can use this to merge your Base Color and Roughness Maps into a single BCR Map which are used in Enfusion.
 
-###### DirectX Normal, Metallic/Height and AO to NMO Map
+###### DirectX Normal, Metallic/Height and AO to NMO/NHO Map
 ![DirectX Normal, Metallic/Height & AO to NMO/NHO](/Examples/NMO_NHO_DirectX.png)
 You can use this to merge your DirectX Normal, Metallic/Height and AO Maps into a single NMO/NHO Map which are used in Enfusion.
 Use a Metallic Map for NMO or a Height Map for NHO
 
-###### OpenGL Normal, Metallic/Height and AO to NMO Map
+###### OpenGL Normal, Metallic/Height and AO to NMO/NHO Map
 ![OpenGL Normal, Metallic/Height & AO to NMO/NHO](/Examples/NMO_NHO_OpenGL.png)
 You can use this to merge your OpenGL Normal, Metallic and AO Maps into a single NMO/NHO Map which are used in Enfusion.
 Use a Metallic Map for NMO or a Height Map for NHO
